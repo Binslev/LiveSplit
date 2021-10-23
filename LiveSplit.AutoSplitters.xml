@@ -13299,4 +13299,15 @@
         <Description>AutoSplitter for Teeter Hero (by Nurufu)</Description>
         <Website>https://github.com/dcom365/TeeterHeroASL</Website>
     </AutoSplitter>
+	<AutoSplitter>
+		<Games>
+		    <Game>Far Cry 6</Game>
+		</Games>
+		<URLs>
+		    <URL>https://raw.githubusercontent.com/Binslev/FC6LR/main/FC6LR.asl</URL>
+		</URLs>
+		<Type>Script</Type>
+		<Description>LoadRemover is available (by AlexYeahNot and Binslev)</Description>
+	        <Website>https://github.com/Binslev/FC6LR</Website>
+    	</AutoSplitter>
 </AutoSplitters>
